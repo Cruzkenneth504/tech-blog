@@ -1,0 +1,146 @@
+body {
+  background: rgb(13, 34, 89);
+  background: linear-gradient
+    (
+      185deg,
+      rgba(13, 34, 89, 1) 0%,
+      rgba(41, 26, 140, 1) 51%,
+      rgba(18, 9, 55, 1) 95%,
+      rgba(38, 0, 93, 1) 99%,
+      rgba(3, 3, 80, 1) 99%
+    );
+}
+
+.navTitle {
+  font-weight: 900;
+  font-size: xx-large;
+}
+
+.blogBox {
+  margin-top: 8px;
+  border-style: solid;
+  border-radius: 15px;
+}
+
+.blogTitle {
+  text-decoration: none;
+  color: rgb(111, 107, 189);
+
+}
+
+.blogDesc {
+  border-style: solid;
+  border-radius: 15px;
+  margin-bottom: 5px;
+  margin-top: 20px;
+  padding: 2px;
+  background-color: rgb(99, 99, 100);
+}
+
+.blogDescMain {
+  font-weight: 700;
+}
+
+.blogDescTwo {
+  font-size: 25px;
+  font-style: italic;
+}
+
+.blogCreate {
+  font-weight: bold;
+  font-style: italic;
+  font-size: 12px;
+  padding: 5px;
+  color: darkkhaki;
+}
+
+.blogBoxCont {
+  margin-top: 10px;
+  border-style: solid;
+  background-color: rgb(113, 143, 62);
+}
+
+.formCont {
+  margin-top: 10px;
+  max-width: 75%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.commentCont {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+  max-width: 75%;
+  border-radius: 15px;
+  background-color: rgb(252, 252, 252);
+}
+
+.commentOwner {
+  font-size: 14px;
+}
+
+.btnComment {
+  margin-top: 10px;
+}
+
+.commentText {
+  font-weight: bold;
+  padding-top: 10px;
+  background-color: rgb(113, 143, 62);
+}
+
+.commentCont {
+  border-style: ridge;
+  border-radius: 15px;
+}
+
+.headerRow {
+  background-color: black;
+  margin-bottom: 10px;
+  border-radius: 15px 15px 0 0;
+}
+
+a:link {
+  color: rgb(29, 200, 23);
+}
+a:visited {
+  color: rgb(182, 179, 41);
+}
+
+a:hover {
+  color: rgb(124, 156, 9);
+}
+
+.login {
+  margin-left: 25px;
+  color: white ;
+}
+
+.signup {
+  margin-left: 25px;
+}
+
+.form-group {
+  margin-top: 10px;
+}
+
+.loggedOff{
+border-radius: 15px;
+}
+
+.new-blog{
+  color: white;
+}
+
+span{
+color: bisque;
+
+}
+
+.current-blogs{
+  background-color: bisque;
+  border-radius: 15px;
+
+}
+

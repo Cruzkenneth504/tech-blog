@@ -1,5 +1,5 @@
 {
-  "name": "Tech_Blog",
+  "name": "tech-blog",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -24,7 +24,15 @@
   "devDependencies": {
     "eslint": "^7.12.1",
     "eslint-config-prettier": "^6.15.0",
-    "prettier": "^2.1.2",
-    "nodemon": "^2.0.7"
-  }
+    "nodemon": "^2.0.22",
+    "prettier": "^2.1.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cruzkenneth504/tech-blog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cruzkenneth504/tech-blog/issues"
+  },
+  "homepage": "https://github.com/Cruzkenneth504/tech-blog#readme"
 }
