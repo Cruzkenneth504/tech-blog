@@ -88,7 +88,7 @@ node server.js
 ## **Author**
 
 * **Kenneth Cruz** 
-- [Link to Repo]()
+- [Link to Repo](https://github.com/Cruzkenneth504/tech-blog)
 - [Link to Github](https://github.com/cruzkenneth504)
 - [Link to LinkedIn](linkedin.com/in/cruzkenneth504)
 
