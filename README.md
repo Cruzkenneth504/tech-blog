@@ -47,32 +47,24 @@ node server.js
 
 ## Click Link below:
 
-[Tech-Blog Website]()
+[Tech-Blog Website](https://quiet-island-18718.herokuapp.com/)
 
 ## Images
 
-### 
+### Home
 
- ![]() 
+ ![Home](./assets/img/home.png) 
 
 <br/>
 <br/>
 
-### 
+### Login
 
-![]()
+![Login](./assets/img/login.png)
 
-### 
+### Sign Up
+![signUp](./assets/img/signUp.png)
 
-![]()
-
-### 
-
-![]()
-
-### 
-
-![]()
 
 
 
